@@ -37,3 +37,22 @@ section {
 .d {
     background-image: url(images/top-banner.png);
 }
+
+.f {
+    width: 50%;
+}
+
+.f img {
+    width: 60%;
+    padding: 30px 50px;
+}
+
+.z {
+    color: blue;
+}
+
+.x {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
